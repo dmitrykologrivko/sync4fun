@@ -33,7 +33,7 @@
     "jquery": "^3.4.1",
     "popper.js": "^1.14.7",
     "randomstring": "^1.1.5",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.5.0",
     "socket.io-client": "^2.2.0",
     "validate.js": "https://github.com/ansman/validate.js.git#c7553ffe9df4a3474e604a3f354cbc9d17190259",
     "video.js": "^7.4.1"
